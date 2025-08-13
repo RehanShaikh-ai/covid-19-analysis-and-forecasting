@@ -16,6 +16,7 @@ It includes:
 The goal is to uncover insights and predict short-term trends in confirmed cases.
 
 ---
+![chloropeth map](chloropeth.jpg) ![trend of covid by WHO](covid_trend.png)
 
 ## 📂 Dataset
 The dataset contains daily COVID-19 statistics reported for multiple countries and regions.
