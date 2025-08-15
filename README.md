@@ -6,6 +6,8 @@
 ![Last Commit](https://img.shields.io/github/last-commit/RehanShaikh-ai/covid-19-analysis-and-forecasting)
 ![Repo Size](https://img.shields.io/github/repo-size/RehanShaikh-ai/covid-19-analysis-and-forecasting)
 
+![powerbi report](powerbi_report.jpg)
+
 ## 📌 Project Overview
 This project analyzes global COVID-19 data to understand its spread, trends, and impact across different countries and regions.  
 It includes:
